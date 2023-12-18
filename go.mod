@@ -47,11 +47,10 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	go.opencensus.io v0.22.2 // indirect
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
+	golang.org/x/crypto v0.17.0
 	golang.org/x/exp v0.0.0-20191227195350-da58074b4299 // indirect
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210816183151-1e6c022a8912 // indirect
+	golang.org/x/net v0.10.0
+	golang.org/x/sync v0.1.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	gonum.org/v1/gonum v0.9.1
 	google.golang.org/grpc v1.37.0
